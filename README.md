@@ -1,3 +1,5 @@
+$:meta(title="Some title text");
+$:markdown
 # Test
 
 Some text
@@ -5,3 +7,4 @@ Some text
 ## A headline
 
 More text
+$:/
